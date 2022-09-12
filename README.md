@@ -1,1 +1,1 @@
-POP
+Java Page Object Pattern
